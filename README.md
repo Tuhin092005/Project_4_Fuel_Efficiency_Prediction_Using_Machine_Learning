@@ -1,4 +1,4 @@
-# 🚗 Fuel Efficiency Prediction Using Machine Learning
+# 🚗 Vehicle Fuel Efficiency Prediction 
 
 > An intelligent Machine Learning project that predicts vehicle fuel efficiency (MPG) based on various automobile characteristics using regression algorithms.
 
