@@ -302,8 +302,8 @@ The model uses these values to estimate the vehicle's fuel efficiency.
 ```
 Online_Payment_Fraud_Detection_System/
 │
-├── Fuel_Efficiency_Prediction.ipynb
-├── Fuel_Efficiency_Prediction.py
+├── Vehicle_Fuel_Efficiency_Prediction.ipynb
+├── Vehicle_Fuel_Efficiency_Prediction.py
 ├── auto-mpg.csv
 ├── requirements.txt
 ├── README.md
@@ -318,13 +318,13 @@ Online_Payment_Fraud_Detection_System/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Tuhin092005/Project_4_Fuel_Efficiency_Prediction_Using_Machine_Learning.git
+git clone https://github.com/Tuhin092005/Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd Project_4_Fuel_Efficiency_Prediction_Using_Machine_Learning
+cd Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning
 ```
 
 ### Install required libraries
@@ -338,7 +338,7 @@ pip install -r requirements.txt
 ### Using Python
 
 ```bash
-python Fuel_Efficiency_Prediction.py
+python Vehicle_Fuel_Efficiency_Prediction.py
 ```
 
 ### Using Google Colab Using Python
@@ -346,7 +346,7 @@ python Fuel_Efficiency_Prediction.py
 Open
 
 ```text
-Fuel_Efficiency_Prediction.ipynb
+Vehicle_Fuel_Efficiency_Prediction.ipynb
 ```
 
 Upload:
