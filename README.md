@@ -313,31 +313,48 @@ Online_Payment_Fraud_Detection_System/
 
 ---
 
-# 🚀 How to Run the Project
+## 🚀 Installation
 
-Clone the Repository
-
-```bash
-git clone https://github.com/Tuhin092005/Fuel-Efficiency-Prediction.git
-```
-
-Move into the project folder
+### Clone the repository
 
 ```bash
-cd Fuel_Efficiency_Prediction
+git clone https://github.com/Tuhin092005/Project_4_Fuel_Efficiency_Prediction_Using_Machine_Learning.git
 ```
 
-Install the required libraries
+### Navigate to the project
+
+```bash
+cd Project_4_Fuel_Efficiency_Prediction_Using_Machine_Learning
+```
+
+### Install required libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the project
+### ▶️ Run the project
+
+### Using Python
 
 ```bash
 python Fuel_Efficiency_Prediction.py
 ```
+
+### Using Google Colab Using Python
+
+Open
+
+```text
+Fuel_Efficiency_Prediction.ipynb
+```
+
+Upload:
+
+- auto-mpg.csv
+
+Run all cells.
+
 
 ---
 
