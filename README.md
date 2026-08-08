@@ -315,10 +315,11 @@ Online_Payment_Fraud_Detection_System/
 
 # 🚀 How to Run the Project
 
-## 1️⃣ Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/Tuhin092005/Fuel-Efficiency-Prediction.git
+```
 
 Move into the project folder
 
