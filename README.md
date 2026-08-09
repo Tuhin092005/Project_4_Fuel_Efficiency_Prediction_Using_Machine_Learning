@@ -307,9 +307,9 @@ Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning/
 ├── Dataset/
 │   ├── auto-mpg.csv
 ├── Images/
-│   ├── Actual_vs_Predicted_Fuel_Efficiency.png
-│   ├── Feature_Importance.png
-│   └── Model_R²_Score_Comparison.png
+│   ├── actual_vs_predicted_fuel_efficiency.png
+│   ├── feature_importance.png
+│   └── model_R²_score_comparison.png
 ├── requirements.txt
 ├── README.md 
 └── LICENSE
