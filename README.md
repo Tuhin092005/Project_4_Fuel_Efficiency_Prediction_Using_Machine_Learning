@@ -300,15 +300,19 @@ The model uses these values to estimate the vehicle's fuel efficiency.
 # 📁 Project Structure
 
 ```
-Online_Payment_Fraud_Detection_System/
+Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning/
 │
 ├── Vehicle_Fuel_Efficiency_Prediction.ipynb
 ├── Vehicle_Fuel_Efficiency_Prediction.py
-├── auto-mpg.csv
+├── Dataset/
+│   ├── auto-mpg.csv.csv
+├── Images/
+│   ├── Actual vs Predicted Fuel Efficiency.png
+│   ├── Feature_Importance.png
+│   └── Model R² Score Comparison.png
 ├── requirements.txt
-├── README.md
-├── LICENSE
-└── images/
+├── README.md 
+└── LICENSE
 ```
 
 ---
