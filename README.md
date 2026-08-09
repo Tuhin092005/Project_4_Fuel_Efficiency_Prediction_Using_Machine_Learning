@@ -305,7 +305,7 @@ Project_4_Vehicle_Fuel_Efficiency_Prediction_Using_Machine_Learning/
 ├── Vehicle_Fuel_Efficiency_Prediction.ipynb
 ├── Vehicle_Fuel_Efficiency_Prediction.py
 ├── Dataset/
-│   ├── auto-mpg.csv.csv
+│   ├── auto-mpg.csv
 ├── Images/
 │   ├── Actual vs Predicted Fuel Efficiency.png
 │   ├── Feature_Importance.png
